@@ -1,6 +1,6 @@
 # codsoft_calculator
 
-# Calculator
+# Task 3 : Calculator
 
 This project is a simple calculator web application that allows users to perform basic arithmetic calculations. The calculator provides a user-friendly interface with buttons for numbers, operators, and function keys.
 
